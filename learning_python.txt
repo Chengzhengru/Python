@@ -1,0 +1,3 @@
+In Python you can automate tasks.
+In Python you can analyze data.
+In Python you can develop web applications.
